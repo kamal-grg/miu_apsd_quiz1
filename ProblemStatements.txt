@@ -1,0 +1,11 @@
+Contact Management System
+
+Problem Statements (Requirement Discoery and Functional Requirement)
+
+1.System must keep tract of contact information
+2.Contact has firstname, lastname, company, jobtitle and phone(s) number, and emails(s).
+3.Each phone number or email has a label such as home, mobile or work.
+4.System has feature for Search contacts.
+5. System must allow to add contact, update contact and delete contact.
+6.system must allow to merge if duplicate found.
+
